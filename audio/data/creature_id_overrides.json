@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "evidence": {
+    "character_table_audio": "Rel Character_Table row Audio/BankName fields @ sub_140306860 + sub_140D2CE10",
+    "probe_fixture": "world_state_probe.gd uses creature_id 501 with deer ambient bank"
+  },
+  "by_creature_id": {
+    "501": {
+      "spawn_key": "deer",
+      "source": "world_state_probe fixture"
+    }
+  }
+}
