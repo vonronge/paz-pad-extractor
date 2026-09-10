@@ -1,6 +1,6 @@
 # PAZ / PAD Archive Extractor
 
-Reads `pad00000.meta` + `PAD*.PAZ`, ICE/LZ-decodes payloads, and writes them under `../extracted/` at the original logical paths. Raw bytes only — no Godot rebake, no `.wem`→ogg.
+Reads `pad00000.meta` + `PAD*.PAZ`, ICE/LZ-decodes payloads, and writes them under `../extracted/` at the original logical paths.
 
 Needs a `Paz/` folder next to this repo (`BDO Client/Paz/`).
 
