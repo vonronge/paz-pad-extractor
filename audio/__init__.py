@@ -13,7 +13,6 @@ __all__ = [
     "CreatureAudioMap",
     "build_bank_catalog",
     "WwiseEvent",
-    "WwiseEvent",
     "WwiseBridge",
     "LOBBY_UI_EVENTS",
     "LOBBY_BOOT_EVENT_ID",
